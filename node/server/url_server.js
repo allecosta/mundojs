@@ -1,3 +1,10 @@
+/**
+ *  A função url.parse(request.url, true) fez um parser da url obtida
+    pela requisição do cliente (request.url)
+
+    O módulo url permite organizar todas as urls da aplicação.
+ */
+
 let http = require("http");
 let url = require("url");
 

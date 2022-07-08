@@ -1,3 +1,7 @@
+/**
+ * Realizando leitura assíncrona
+ */
+
 let fs = require("fs");
 
 let readAsync = function (file) {
